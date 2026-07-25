@@ -4,14 +4,7 @@ A modern, fully responsive **Travel Landing Page** built using **HTML5, CSS3, an
 
 Designed with a **mobile-first approach**, this project delivers a seamless browsing experience across desktops, tablets, and smartphones.
 
----
 
-
-
----
-
-
----
 
 ## 🚀 Features
 
@@ -97,13 +90,7 @@ The website is fully responsive and works perfectly on:
 
 ---
 
-## 📷 Screenshots
 
-### Home Page
-
-Add your screenshot here.
-
----
 
 ## 🤝 Contributing
 
@@ -142,12 +129,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Sai Krishna**
-
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
-
----
+**Sai Krishna031**
 
 ## ⭐ Support
 
@@ -155,6 +137,3 @@ If you found this project helpful, please consider giving it a ⭐ on GitHub.
 
 It motivates me to build more open-source projects.
 
----
-
-### Thank You for Visiting! ✈️🌍
