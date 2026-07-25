@@ -6,9 +6,7 @@ Designed with a **mobile-first approach**, this project delivers a seamless brow
 
 ---
 
-## 📌 Live Demo
 
-🔗 https://your-vercel-url.vercel.app
 
 ---
 
