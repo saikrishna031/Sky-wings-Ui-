@@ -10,13 +10,6 @@ Designed with a **mobile-first approach**, this project delivers a seamless brow
 
 ---
 
-## 📸 Preview
-
-> Add a screenshot of your homepage here.
-
-Example:
-
-![SkyWings Preview](assets/preview.png)
 
 ---
 
@@ -46,35 +39,7 @@ Example:
 
 ---
 
-## 📂 Project Structure
 
-```
-SkyWings/
-│
-├── assets/
-│   ├── header.png
-│   ├── destination-1.jpg
-│   ├── destination-2.jpg
-│   ├── client-1.jpg
-│   ├── client-2.jpg
-│   └── ...
-│
-├── index.html
-├── styles.css
-├── main.js
-├── README.md
-└── preview.png
-```
-
----
-
-## ⚙️ Getting Started
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/skywings.git
-```
 
 ### Navigate to the Project Folder
 
